@@ -1,0 +1,52 @@
+*{
+    margin: opx;
+    padding: 0px;
+
+}
+
+.logo h1{
+    color:  blue;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+.box{
+    border-radius: 5%;
+    background-color: rgba(212, 209, 209, 0.697);
+    width: 400px;
+    height: 250px;
+    align-items: center;
+    margin-left: 560px;
+    border-width: 100%;
+
+}
+.box span{
+font-size: 20px;
+font-weight: 400;
+margin-top: 10px;
+margin-left: 30%;
+margin-right: 30%;
+margin-bottom: 10px;
+}
+.box #id1{
+    display: block;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+}
+button{
+    background-color: blue;
+    color: white;
+}
+
+.box a{
+    display: inline;
+text-decoration: none;
+margin-right: 10px;
+padding-left: 30px;
+padding-right: 30px;
+margin-top: 30px;
+}
